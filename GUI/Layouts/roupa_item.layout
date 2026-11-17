@@ -1,0 +1,27 @@
+ButtonWidgetClass RoupaItemButton {
+ ignorepointer 0
+ color 0.15 0.15 0.15 1
+ position 0 0
+ size 80 80
+ halign center_ref
+ valign center_ref
+ hexactsize 1
+ vexactsize 1
+ {
+  TextWidgetClass RoupaName {
+   ignorepointer 1
+   position 0 0
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactsize 0
+   vexactsize 0
+   text "Item"
+   font "gui/fonts/etelkatextpro12"
+   "text halign" center
+   "text valign" center
+   "text color" 1 1 1 1
+   "text wrap" 1
+  }
+ }
+}

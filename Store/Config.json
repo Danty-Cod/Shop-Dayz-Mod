@@ -1,0 +1,113 @@
+{
+    "StoreName": "Dantyz Shop",
+    "CoinName": "ZCoins",
+    "StartCurrency": 15,
+    "InsuranceWaitTimeSeconds": 150,
+    "InsuranceTimeToExpire": 432000,
+    "InsuranceCostPercent": 15,
+    "InsuranceCostPercentPreviwMap": 10,
+    "TrackDurationSeconds": 1800,
+    "InsuranceReturnPercent": 100,
+    "RefundInsuranceOnDestroyed": 1,
+    "VehicleRecallDelaySeconds": 1800,
+    "VehicleRecallCooldownSeconds": 1800,
+	"EnableMessages": 1,
+    "TestDriveEnabled": 1,
+    "TestDriveSeconds": 600,
+    "TestDriveCooldownSeconds": 180,
+    "TestDriveEarlyCooldownSeconds": 60,
+    "TestDriveSpots": [
+        {
+            "Position": [13678.086914, 45.426754, 2948.686279],
+            "Heading": 0.364833
+        }
+    ],
+    "PlaytimeRewardEnabled": 1,
+    "PlaytimeRewardMinutes": 30,
+    "PlaytimeRewardCoins": 2,
+    "AdminSteamIDs": [
+        "76561111111111111",
+		"76561111111111111",
+		"76561111111111111"
+    ],
+    "Categories": [
+        {
+            "CategoryName": "BASE",
+            "FileName": "base.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/base.edds",
+            "Enabled": true
+        },
+        {
+            "CategoryName": "ferramentas",
+            "FileName": "ferramentas.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/ferramentas.edds",
+            "Enabled": true
+        },
+        {
+            "CategoryName": "Bandeiras",
+            "FileName": "flags.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/flags.edds",
+            "Enabled": false
+        },
+        {
+            "CategoryName": "Bracadeiras",
+            "FileName": "bracadeiras.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/bracadeiras.edds",
+            "Enabled": false
+        },
+		{
+            "CategoryName": "Pecas de Carro",
+            "FileName": "pecascarro.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/pecascarro.edds",
+            "Enabled": true
+        },
+        {
+            "CategoryName": "CARROS",
+            "FileName": "carros.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/carros.edds",
+            "Enabled": true
+        },
+		{
+            "CategoryName": "Seguros",
+            "FileName": "seguros.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/seguros.edds",
+            "Enabled": true
+        },
+        {
+            "CategoryName": "mochilas",
+            "FileName": "mochilas.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/mochilas.edds",
+            "Enabled": false
+        },
+		{
+            "CategoryName": "VIP Roupas",
+            "FileName": "viproupas.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/viproupas.edds",
+            "Enabled": true
+        },
+		{
+            "CategoryName": "Escolher Roupas",
+            "FileName": "personaclothers.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/roupas.edds",
+            "Enabled": true
+        },
+		{
+            "CategoryName": "VIP Fura-Fila",
+            "FileName": "vipfila.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/vipfurafila/vipfila.edds",
+            "Enabled": false
+        },
+		{
+            "CategoryName": "Comida",
+            "FileName": "comida.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/money/comida.edds",
+            "Enabled": true
+        },
+		{
+            "CategoryName": "VIP Free",
+            "FileName": "vipitensfree.json",
+            "CategoryIcon": "DantyzShop/data/selecticonshop/vip/vipitensfree.edds",
+            "Enabled": true
+        }
+    ]
+}

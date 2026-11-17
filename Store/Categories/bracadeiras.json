@@ -1,0 +1,404 @@
+[
+    {
+        "Name":  "Bracadeira Argentina",
+        "Classname":  "Armband_flag_argentina",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Australia",
+        "Classname":  "Armband_flag_australia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Austria",
+        "Classname":  "Armband_flag_austria",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Belgium",
+        "Classname":  "Armband_flag_belgium",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Bosnia",
+        "Classname":  "Armband_flag_bosnia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Brazil",
+        "Classname":  "Armband_flag_brazil",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Canada",
+        "Classname":  "Armband_flag_canada",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Croatia",
+        "Classname":  "Armband_flag_croatia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Czech",
+        "Classname":  "Armband_flag_czech",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Denmark",
+        "Classname":  "Armband_flag_denmark",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira England",
+        "Classname":  "Armband_flag_england",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Estonia",
+        "Classname":  "Armband_flag_estonia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Eu",
+        "Classname":  "Armband_flag_eu",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Finland",
+        "Classname":  "Armband_flag_finland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira France",
+        "Classname":  "Armband_flag_france",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Germany",
+        "Classname":  "Armband_flag_germany",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Greece",
+        "Classname":  "Armband_flag_greece",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Hungary",
+        "Classname":  "Armband_flag_hungary",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Iceland",
+        "Classname":  "Armband_flag_iceland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Ireland",
+        "Classname":  "Armband_flag_ireland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Italy",
+        "Classname":  "Armband_flag_italy",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Latvia",
+        "Classname":  "Armband_flag_latvia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Lithuania",
+        "Classname":  "Armband_flag_lithuania",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Mexico",
+        "Classname":  "Armband_flag_mexico",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Netherlands",
+        "Classname":  "Armband_flag_netherlands",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Norway",
+        "Classname":  "Armband_flag_norway",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Philippines",
+        "Classname":  "Armband_flag_philippines",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Poland",
+        "Classname":  "Armband_flag_poland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Portugal",
+        "Classname":  "Armband_flag_portugal",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Puertorico",
+        "Classname":  "Armband_flag_puertorico",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Romania",
+        "Classname":  "Armband_flag_romania",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Russia",
+        "Classname":  "Armband_flag_russia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Scotland",
+        "Classname":  "Armband_flag_scotland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Serbia",
+        "Classname":  "Armband_flag_serbia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Slovakia",
+        "Classname":  "Armband_flag_slovakia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Southafrica",
+        "Classname":  "Armband_flag_southafrica",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Southkorea",
+        "Classname":  "Armband_flag_southkorea",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Spain",
+        "Classname":  "Armband_flag_spain",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Sweden",
+        "Classname":  "Armband_flag_sweden",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Switzerland",
+        "Classname":  "Armband_flag_switzerland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Taiwan",
+        "Classname":  "Armband_flag_taiwan",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Turkey",
+        "Classname":  "Armband_flag_turkey",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira UK",
+        "Classname":  "Armband_flag_UK",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Ukraine",
+        "Classname":  "Armband_flag_ukraine",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Us",
+        "Classname":  "Armband_flag_us",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Bolivia",
+        "Classname":  "Armband_flag_bolivia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Chile",
+        "Classname":  "Armband_flag_chile",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira China",
+        "Classname":  "Armband_flag_china",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Colombia",
+        "Classname":  "Armband_flag_colombia",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Costarica",
+        "Classname":  "Armband_flag_costarica",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Cuba",
+        "Classname":  "Armband_flag_cuba",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Dominicanrepublic",
+        "Classname":  "Armband_flag_dominicanrepublic",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Ecuador",
+        "Classname":  "Armband_flag_ecuador",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Elsalvador",
+        "Classname":  "Armband_flag_elsalvador",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Guatemala",
+        "Classname":  "Armband_flag_guatemala",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Guyana",
+        "Classname":  "Armband_flag_guyana",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Honduras",
+        "Classname":  "Armband_flag_honduras",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira India",
+        "Classname":  "Armband_flag_india",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Jamaica",
+        "Classname":  "Armband_flag_jamaica",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Japan",
+        "Classname":  "Armband_flag_japan",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Newzeeland",
+        "Classname":  "Armband_flag_newzeeland",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Nicaragua",
+        "Classname":  "Armband_flag_nicaragua",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Paraguay",
+        "Classname":  "Armband_flag_paraguay",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Peru",
+        "Classname":  "Armband_flag_peru",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Suriname",
+        "Classname":  "Armband_flag_suriname",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Uruguay",
+        "Classname":  "Armband_flag_uruguay",
+        "Price":  20,
+        "Quantity":  -1
+    },
+    {
+        "Name":  "Bracadeira Venezuela",
+        "Classname":  "Armband_flag_venezuela",
+        "Price":  20,
+        "Quantity":  -1
+    }
+]

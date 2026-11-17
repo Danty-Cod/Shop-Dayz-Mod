@@ -1,0 +1,100 @@
+[
+    {
+        "Name": "Makarov IJ70",
+        "Classname": "MakarovIJ70",
+        "Price": 100,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "CZ75",
+        "Classname": "CZ75",
+        "Price": 135,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "FNX45",
+        "Classname": "FNX45",
+        "Price": 175,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Glock 19",
+        "Classname": "Glock19",
+        "Price": 300,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Mosin 9130",
+        "Classname": "Mosin9130",
+        "Price": 400,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "SKS",
+        "Classname": "SKS",
+        "Price": 600,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "CZ61",
+        "Classname": "CZ61",
+        "Price": 700,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "UMP45",
+        "Classname": "UMP45",
+        "Price": 800,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "MP5K",
+        "Classname": "MP5K",
+        "Price": 1000,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "AKM",
+        "Classname": "AKM",
+        "Price": 1500,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "AK101",
+        "Classname": "AK101",
+        "Price": 1500,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "M4A1",
+        "Classname": "M4A1",
+        "Price": 1500,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "VSS",
+        "Classname": "VSS",
+        "Price": 1600,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "SVD",
+        "Classname": "SVD",
+        "Price": 2000,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]

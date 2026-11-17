@@ -1,0 +1,864 @@
+[
+    
+    {
+        "Name": "JLTV - Camo",
+        "Classname": "Candy_JLTV",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Verde",
+        "Classname": "Candy_JLTV_Green",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Branco",
+        "Classname": "Candy_JLTV_White",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Rosa",
+        "Classname": "Candy_JLTV_Pink",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Vermelho",
+        "Classname": "Candy_JLTV_Red",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Amarelo",
+        "Classname": "Candy_JLTV_Yellow",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Cinza",
+        "Classname": "Candy_JLTV_Grey",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Apocalypse",
+        "Classname": "Candy_JLTV_Apoc",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para carros alagados\npara quando o motor destruir ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "JLTV - Rust",
+        "Classname": "Candy_JLTV_Rust",
+        "Price": 1500,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 8 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Humvee - Camo",
+        "Classname": "TP_Apoc_M1025_NoGun",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Humvee - Preto",
+        "Classname": "TP_Apoc_M1025_NoGun_Black",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Humvee - Camuflado",
+        "Classname": "TP_Apoc_M1025_NoGun_Camo",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Humvee - Tan",
+        "Classname": "TP_Apoc_M1025_NoGun_Tan",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Branco",
+        "Classname": "TP_Apoc_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Preto",
+        "Classname": "TP_Apoc_Black_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Azul",
+        "Classname": "TP_Apoc_Blue_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Camuflado",
+        "Classname": "TP_Apoc_Camo_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Verde",
+        "Classname": "TP_Apoc_Green_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Cinza",
+        "Classname": "TP_Apoc_Grey_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Vermelho",
+        "Classname": "TP_Apoc_Red_Suv",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "SUV - Amarelo",
+        "Classname": "TP_Apoc_Yellow_Suv",
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Price": 1200,
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Mercedes 190E",
+        "Classname": "Star_Mercedes_190E",
+        "Price": 1300,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Camaro 1969",
+        "Classname": "Star_Camaro_1969",
+        "Price": 1400,
+        "TooltipActive": "true",
+        "Description": "Carro .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Dodge Charger RT",
+        "Classname": "A_Charger",
+        "Price": 1400,
+        "TooltipActive": "true",
+        "Description": "Carro .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Chevelle 1970",
+        "Classname": "chevelle1970",
+        "Price": 1400,
+        "TooltipActive": "true",
+        "Description": "Carro .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Jeep Rubicon",
+        "Classname": "Star_Jeep_Rubi_Extra",
+        "Price": 1600,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Land Rover Defender",
+        "Classname": "Star_Rover_Defender",
+        "Price": 1600,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Cadillac Escalade",
+        "Classname": "esc",
+        "Price": 1700,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Hennessey F150",
+        "Classname": "HennesseyF150D",
+        "Price": 1700,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Hummer H1",
+        "Classname": "Star_Hummer_H1",
+        "Price": 1700,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "BMW X5M Competition",
+        "Classname": "x5mcompetition",
+        "Price": 1800,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "BMW M5 E60",
+        "Classname": "e60",
+        "Price": 1800,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "BMW M3 G80",
+        "Classname": "M3_G80",
+        "Price": 1900,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Mercedes GT63 S",
+        "Classname": "gt63",
+        "Price": 2000,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Caminhao HX58 - Preto",
+        "Classname": "hx58_Black",
+        "Price": 2200,
+        "TooltipActive": "true",
+        "Description": "Caminhao .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Golf MK1 - Branco",
+        "Classname": "Star_Golf_MK1",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Golf MK1 - Azul",
+        "Classname": "Star_Golf_MK1_Blue",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Golf MK1 - Jade",
+        "Classname": "Star_Golf_MK1_jade",
+        "Price": 1200,
+        "TooltipActive": "true",
+        "Description": "Carro .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Land Rover Defender 110 Tundra",
+        "Classname": "tundra",
+        "Price": 1600,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Chevrolet Z71",
+        "Classname": "Star_Chevrolet_Z71",
+        "Price": 1700,
+        "TooltipActive": "true",
+        "Description": "Carro cabe 4 players.\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Harley Fat Boy - Enferrujada Amarela",
+        "Classname": "MBM_HarleyDavidsonFatBoy_Rusty_Yellow",
+        "Price": 200,
+        "TooltipActive": "true",
+        "Description": "Moto .\nO seguro funciona apenas para\nmotor destruido ( custa 15% do carro )\nvoce recebe as moedas automaticamente na loja",
+        "Quantity": -1,
+        "RecallCargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "CargoItems": [
+            {
+                "Classname": "Carlock",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "KitID": 1,
+        "KitName": "VIP Roupas 7 Dias",
+        "Description": "Kit de roupas + itens bonus",
+        "ClothingItems": [
+            {
+                "SlotName": "Body",
+                "Classname": "Hoodie_Black",
+                "DisplayName": "Moletom Preto"
+            },
+            {
+                "SlotName": "Legs",
+                "Classname": "CargoPants_Black",
+                "DisplayName": "Calca Cargo Preta"
+            },
+            {
+                "SlotName": "Feet",
+                "Classname": "MilitaryBoots_Black",
+                "DisplayName": "Botas Militares"
+            },
+            {
+                "SlotName": "Headgear",
+                "Classname": "BaseballCap_Black",
+                "DisplayName": "Bone Preto"
+            }
+        ],
+        "BonusItems": [
+            {
+                "Classname": "TacticalBaconCan_Opened",
+                "Quantity": 1,
+                "DisplayName": "Lata de Bacon Aberta"
+            },
+            {
+                "Classname": "CombatKnife",
+                "Quantity": 1,
+                "DisplayName": "Faca de Combate"
+            },
+            {
+                "Classname": "Apple",
+                "Quantity": 1,
+                "DisplayName": "Fruta"
+            },
+            {
+                "Classname": "BandageDressing",
+                "Quantity": 1,
+                "DisplayName": "Bandagem"
+            },
+            {
+                "Classname": "SodaCan_Cola",
+                "Quantity": 1,
+                "DisplayName": "Coca-Cola"
+            }
+        ]
+    },
+    {
+        "KitID": 2,
+        "KitName": "VIP Roupas 20 Dias",
+        "Description": "Kit de roupas + itens bonus",
+        "ClothingItems": [
+            {
+                "SlotName": "Body",
+                "Classname": "Hoodie_Grey",
+                "DisplayName": "Moletom Cinza"
+            },
+            {
+                "SlotName": "Legs",
+                "Classname": "CargoPants_Green",
+                "DisplayName": "Calca Cargo Verde"
+            },
+            {
+                "SlotName": "Feet",
+                "Classname": "CombatBoots_Beige",
+                "DisplayName": "Botas de Combate"
+            },
+            {
+                "SlotName": "Headgear",
+                "Classname": "BoonieHat_Olive",
+                "DisplayName": "Chapeu Boonie Verde"
+            }
+        ],
+        "BonusItems": [
+            {
+                "Classname": "TacticalBaconCan_Opened",
+                "Quantity": 2,
+                "DisplayName": "Lata de Bacon Aberta"
+            },
+            {
+                "Classname": "CombatKnife",
+                "Quantity": 1,
+                "DisplayName": "Faca de Combate"
+            },
+            {
+                "Classname": "BandageDressing",
+                "Quantity": 2,
+                "DisplayName": "Bandagem"
+            },
+            {
+                "Classname": "Canteen",
+                "Quantity": 1,
+                "DisplayName": "Cantil de agua"
+            },
+            {
+                "Classname": "SodaCan_Cola",
+                "Quantity": 1,
+                "DisplayName": "Coca-Cola"
+            },
+            {
+                "Classname": "Apple",
+                "Quantity": 2,
+                "DisplayName": "Fruta"
+            }
+        ]
+    },
+    {
+        "KitID": 3,
+        "KitName": "VIP Roupas 30 Dias",
+        "Description": "Kit de roupas + itens bonus + mochila",
+        "ClothingItems": [
+            {
+                "SlotName": "Body",
+                "Classname": "BomberJacket_Black",
+                "DisplayName": "Jaqueta Bomber Preta"
+            },
+            {
+                "SlotName": "Legs",
+                "Classname": "CargoPants_Beige",
+                "DisplayName": "Calca Cargo Bege"
+            },
+            {
+                "SlotName": "Feet",
+                "Classname": "MilitaryBoots_Brown",
+                "DisplayName": "Botas Militares Marrom"
+            },
+            {
+                "SlotName": "Headgear",
+                "Classname": "BoonieHat_Black",
+                "DisplayName": "Chapeu Boonie Preto"
+            },
+            {
+                "SlotName": "Hips",
+                "Classname": "CivilianBelt",
+                "DisplayName": "Cinto Civil"
+            },
+            {
+                "SlotName": "Back",
+                "Classname": "AssaultBag_Black",
+                "DisplayName": "Mochila de Assalto Preta"
+            }
+        ],
+        "BonusItems": [
+            {
+                "Classname": "TacticalBaconCan_Opened",
+                "Quantity": 3,
+                "DisplayName": "Lata de Bacon Aberta"
+            },
+            {
+                "Classname": "CombatKnife",
+                "Quantity": 1,
+                "DisplayName": "Faca de Combate"
+            },
+            {
+                "Classname": "Canteen",
+                "Quantity": 1,
+                "DisplayName": "Cantil de agua"
+            },
+            {
+                "Classname": "BandageDressing",
+                "Quantity": 2,
+                "DisplayName": "Bandagem"
+            },
+            {
+                "Classname": "SodaCan_Cola",
+                "Quantity": 2,
+                "DisplayName": "Coca-Cola"
+            },
+            {
+                "Classname": "Apple",
+                "Quantity": 3,
+                "DisplayName": "Fruta"
+            }
+        ]
+    }
+]

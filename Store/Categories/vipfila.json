@@ -1,0 +1,57 @@
+[
+    {
+        "Name": "VIP Fura-Fila 3 Dias",
+        "Classname": "VIP_FILA_3",
+        "TooltipActive": "false",
+        "Price": 40,
+        "Days": 3,
+        "IconPath": "DantyzShop/data/selecticonshop/vipfurafila/vipfila3.edds",
+        "Quantity": -1,
+        "KitID": 0,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP Fura-Fila 7 Dias",
+        "Classname": "VIP_FILA_7",
+        "TooltipActive": "false",
+        "Price": 200,
+        "Days": 7,
+        "IconPath": "DantyzShop/data/selecticonshop/vipfurafila/vipfila7.edds",
+        "Quantity": -1,
+        "KitID": 0,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP Fura-Fila 15 Dias",
+        "Classname": "VIP_FILA_15",
+        "TooltipActive": "false",
+        "Price": 480,
+        "Days": 15,
+        "IconPath": "DantyzShop/data/selecticonshop/vipfurafila/vipfila15.edds",
+        "Quantity": -1,
+        "KitID": 0,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP Fura-Fila 20 Dias",
+        "Classname": "VIP_FILA_20",
+        "TooltipActive": "false",
+        "Price": 640,
+        "Days": 20,
+        "IconPath": "DantyzShop/data/selecticonshop/vipfurafila/vipfila20.edds",
+        "Quantity": -1,
+        "KitID": 0,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP Fura-Fila 30 Dias",
+        "Classname": "VIP_FILA_30",
+        "TooltipActive": "false",
+        "Price": 1000,
+        "Days": 30,
+        "IconPath": "DantyzShop/data/selecticonshop/vipfurafila/vipfila30.edds",
+        "Quantity": -1,
+        "KitID": 0,
+        "Stock": -1
+    }
+]

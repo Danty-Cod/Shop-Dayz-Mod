@@ -1,0 +1,175 @@
+[
+    {
+        "Name": "Chave de Fenda",
+        "Classname": "Screwdriver",
+        "Price": 50,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Alicate",
+        "Classname": "Pliers",
+        "Price": 50,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Martelo",
+        "Classname": "Hammer",
+        "Price": 50,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Serrote",
+        "Classname": "HandSaw",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Serra",
+        "Classname": "Hacksaw",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit 15 Serra",
+        "Classname": "Hacksaw",
+        "Price": 850,
+        "Quantity": -1,
+        "QuantityDrop": 15,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit de Costura",
+        "Classname": "SewingKit",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit de Couro",
+        "Classname": "LeatherSewingKit",
+        "Price": 65,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Pedra de Amolar",
+        "Classname": "Whetstone",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit de Limpeza de Armas",
+        "Classname": "WeaponCleaningKit",
+        "Price": 100,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Pa",
+        "Classname": "Shovel",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Picareta",
+        "Classname": "Pickaxe",
+        "Price": 80,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Marreta",
+        "Classname": "SledgeHammer",
+        "Price": 80,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Machado de Lenha",
+        "Classname": "WoodAxe",
+        "Price": 100,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit Eletrico",
+        "Classname": "ElectronicRepairKit",
+        "Price": 150,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Arame Farpado",
+        "Classname": "BarbedWire",
+        "Price": 50,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit 15 Farpado",
+        "Classname": "BarbedWire",
+        "Price": 720,
+        "Quantity": -1,
+        "QuantityDrop": 15,
+        "Stock": -1
+    },
+    {
+        "Name": "Fio De Metal",
+        "Classname": "MetalWire",
+        "Price": 50,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit 15 Fio Metal",
+        "Classname": "MetalWire",
+        "Price": 720,
+        "Quantity": -1,
+        "QuantityDrop": 15,
+        "Stock": -1
+    },
+    {
+        "Name": "Caixa De Prego",
+        "Classname": "NailBox",
+        "Price": 45,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit 15 Pregos",
+        "Classname": "Nailbox",
+        "Price": 650,
+        "Quantity": -1,
+        "QuantityDrop": 15,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit 35 Pregos",
+        "Classname": "Nailbox",
+        "Price": 1450,
+        "Quantity": -1,
+        "QuantityDrop": 35,
+        "Stock": -1
+    },
+    {
+        "Name": "corda",
+        "Classname": "rope",
+        "Price": 1,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "gravetos",
+        "Classname": "WoodenStick",
+        "Price": 1,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]

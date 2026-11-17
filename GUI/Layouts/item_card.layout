@@ -1,0 +1,231 @@
+PanelWidgetClass ProductWrapper {
+ color 0.9725 0.8431 0 0
+ position 0 0
+ size 200 200
+ hexactpos 0
+ vexactpos 0
+ hexactsize 1
+ vexactsize 1
+ style blank
+ {
+  PanelWidgetClass MouseCatcher {
+   ignorepointer 0
+   color 0 0 0 0
+   position 0 0
+   size 1 1
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   priority -1
+   style blank
+  }
+  PanelWidgetClass Highlight {
+   visible 0
+   ignorepointer 1
+   color 0.2353 0.6235 0.3333 1
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   style DayZDefaultPanel
+  }
+  PanelWidgetClass CardPanel {
+   disabled 0
+   clipchildren 1
+   keepsafezone 0
+   color 0.8745 0.7686 0.451 0.5294
+   position 0.00067 -0.00547
+   size 0.9978 1.00604
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   style Empty
+   {
+    PanelWidgetClass PanelTitle {
+     ignorepointer 1
+     color 0 0 0 0.7843
+     position 0.02 0.02
+     size 0.96 0.15
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass ItemName {
+       visible 1
+       ignorepointer 1
+       position 0 0
+       size 1 0.96
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Normal
+       text "AKM"
+       font "gui/fonts/etelkatextpro18"
+       "exact text" 0
+       "size to text h" 0
+       "size to text v" 0
+       "text halign" center
+       "text valign" center
+      }
+     }
+    }
+    PanelWidgetClass PanelPreview {
+     ignorepointer 1
+     color 0 0 0 0.7843
+     position 0.02 0.18
+     size 0.96 0.5
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      ItemPreviewWidgetClass ProductPreview {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+      }
+     }
+    }
+    PanelWidgetClass PanelPrice {
+     ignorepointer 1
+     color 0 0 0 0.7843
+     position 0.02 0.69
+     size 0.96 0.13
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      PanelWidgetClass GridPrice {
+       ignorepointer 1
+       color 0.2353 0.3333 0.6235 1
+       position 0 0
+       size 1 1
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       scaled 1
+       {
+        ImageWidgetClass Coin {
+         ignorepointer 1
+         color 1 0.9137 0.6471 1
+         position 0.25 0
+         size 0.15 0.9
+         hexactpos 0
+         vexactpos 0
+         hexactsize 0
+         vexactsize 0
+         imageTexture "DantyzShop/data/selecticonshop/money/moneyzc.edds"
+         mode additive
+         "src alpha" 1
+         stretch 1
+        }
+        TextWidgetClass ItemCost {
+         ignorepointer 1
+         color 1 0.6902 0.3608 1
+         position 0.1 0
+         size 0.8 1
+         hexactpos 0
+         vexactpos 0
+         hexactsize 0
+         vexactsize 0
+         text "100"
+         font "gui/fonts/etelkatextpro14"
+         "exact text" 0
+         "size to text h" 0
+         "size to text v" 0
+         "text halign" center
+         "text valign" center
+        }
+       }
+      }
+     }
+    }
+    ButtonWidgetClass BuyButton {
+     ignorepointer 0
+     color 0 0.7 0 1
+     position 0.02 0.83
+     size 0.96 0.15
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass BuyText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "COMPRAR"
+       font "gui/fonts/etelkatextpro16"
+       "exact text" 0
+       "size to text h" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+    ButtonWidgetClass TestButton {
+     visible 0
+     ignorepointer 0
+     color 0.1 0.45 0.85 1
+     position 0.51 0.83
+     size 0.47 0.15
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass TestText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "TESTAR"
+       font "gui/fonts/etelkatextpro16"
+       "exact text" 0
+       "size to text h" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+   }
+  }
+ }
+}

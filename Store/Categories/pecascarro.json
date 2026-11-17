@@ -1,0 +1,100 @@
+[
+    {
+        "Name": "Roda - ADA / Gunter",
+        "Classname": "HatchbackWheel",
+        "Price": 80,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda - Sedan",
+        "Classname": "CivSedanWheel",
+        "Price": 80,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda - Sarka",
+        "Classname": "Sedan_02_Wheel",
+        "Price": 80,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda - Gunter (Hatchback 02)",
+        "Classname": "Hatchback_02_Wheel",
+        "Price": 80,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda - Offroad 02",
+        "Classname": "Offroad_02_Wheel",
+        "Price": 90,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda Simples - Caminhao",
+        "Classname": "Truck_01_Wheel",
+        "Price": 120,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda Dupla - Caminhao",
+        "Classname": "Truck_01_WheelDouble",
+        "Price": 150,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Bateria de Carro",
+        "Classname": "CarBattery",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Bateria de Caminhao",
+        "Classname": "TruckBattery",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Vela de Ignicao",
+        "Classname": "SparkPlug",
+        "Price": 150,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Lanterna / Farol",
+        "Classname": "HeadlightH7",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda JLTV",
+        "Classname": "candy_jltv_wheel",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Roda SUV",
+        "Classname": "TP_APOCSUV_WHEEL",
+        "Price": 120,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Radiador De Carro",
+        "Classname": "CarRadiator",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]

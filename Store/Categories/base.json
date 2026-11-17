@@ -1,0 +1,289 @@
+[
+    {
+        "Name": "Kit Constrution",
+        "Classname": "Barrel_Red",
+        "TooltipActive": "true",
+        "Description": "Kit de Construcao 1 (dentro do Barril Vermelho):\n- 100 Taboas (10x10)\n- 10 Troncos\n- 10 Caixas de Pregos\n- 3 Machadinhas\n- 5 Arames\n- 2 Alicates\n- 3 Pedras de Amolar\n- 3 Serrotes\n- 5 Cadeados\n- 3 Cordas\n- 10 Chapas de Metal (1x10)\n- 1 Bandeira Pirata\n- 1 Kit de Bandeira de Territorio\n- 1 Pa",
+        "Price": 1200,
+        "Quantity": -1,
+        "Attachments": [],
+        "Ground": [
+            {
+                "Classname": "WoodenPlank",
+                "Quantity": 10
+            },
+            {
+                "Classname": "WoodenLog",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Nailbox",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Hatchet",
+                "Quantity": 3
+            },
+            {
+                "Classname": "MetalWire",
+                "Quantity": 5
+            },
+            {
+                "Classname": "Pliers",
+                "Quantity": 1
+            },
+            {
+                "Classname": "Whetstone",
+                "Quantity": 3
+            },
+            {
+                "Classname": "HandSaw",
+                "Quantity": 3
+            },
+            {
+                "Classname": "CodeLock",
+                "Quantity": 5
+            },
+            {
+                "Classname": "Rope",
+                "Quantity": 3
+            },
+            {
+                "Classname": "MetalPlate",
+                "Quantity": 1
+            },
+            {
+                "Classname": "Flag_Pirates",
+                "Quantity": 1
+            },
+            {
+                "Classname": "TerritoryFlagKit",
+                "Quantity": 1
+            },
+            {
+                "Classname": "shovel",
+                "Quantity": 1
+            },
+            {
+                "Classname": "pliers",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Kit Constrution 2",
+        "Classname": "Barrel_Red",
+        "TooltipActive": "true",
+        "Description": "Kit de Construcao 2 (dentro do Barril Vermelho):\n- 200 Taboas (20x10)\n- 20 Troncos\n- 20 Caixas de Pregos\n- 6 Machadinhas\n- 10 Arames\n- 4 Alicates\n- 6 Pedras de Amolar\n- 6 Serrotes\n- 10 Cadeados\n- 3 Cordas\n- 20 Chapas de Metal (2x10)\n- 1 Bandeira Pirata\n- 1 Kit de Bandeira de Territorio\n- 1 Pa",
+        "Price": 2000,
+        "Quantity": -1,
+        "Attachments": [],
+        "Ground": [
+            {
+                "Classname": "WoodenPlank",
+                "Quantity": 20
+            },
+            {
+                "Classname": "WoodenLog",
+                "Quantity": 20
+            },
+            {
+                "Classname": "Nailbox",
+                "Quantity": 20
+            },
+            {
+                "Classname": "Hatchet",
+                "Quantity": 6
+            },
+            {
+                "Classname": "MetalWire",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Pliers",
+                "Quantity": 3
+            },
+            {
+                "Classname": "Whetstone",
+                "Quantity": 6
+            },
+            {
+                "Classname": "HandSaw",
+                "Quantity": 6
+            },
+            {
+                "Classname": "CodeLock",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Rope",
+                "Quantity": 3
+            },
+            {
+                "Classname": "MetalPlate",
+                "Quantity": 2
+            },
+            {
+                "Classname": "Flag_Pirates",
+                "Quantity": 1
+            },
+            {
+                "Classname": "TerritoryFlagKit",
+                "Quantity": 1
+            },
+            {
+                "Classname": "shovel",
+                "Quantity": 1
+            },
+            {
+                "Classname": "pliers",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Barraca Media",
+        "Classname": "MediumTent",
+        "Price": 100,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Barraca Grande",
+        "Classname": "LargeTent",
+        "Price": 150,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Barraca de Carro",
+        "Classname": "CarTent",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Barril Vermelho",
+        "Classname": "Barrel_Red",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Rede de Camuflagem",
+        "Classname": "Camonet",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Bandeira Branca",
+        "Classname": "Flag_Bohemia",
+        "Price": 1,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Prateleira",
+        "Classname": "YM_FurnitureFE_Stand_Kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "GunHack",
+        "Classname": "YM_FurnitureFE_WoodenGunRack_Kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Code lock",
+        "Classname": "CodeLock",
+        "Price": 90,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "10 Chapa de metal",
+        "Classname": "MetalPlate",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "200 taboas",
+        "Classname": "WoodenPlank",
+        "Price": 600,
+        "Quantity": -1,
+        "QuantityDrop": 20,
+        "Stock": -1
+    },
+    {
+        "Name": "25 Troncos",
+        "Classname": "WoodenLog",
+        "Price": 400,
+        "Quantity": -1,
+        "QuantityDrop": 25,
+        "Stock": -1
+    },
+    {
+        "Name": "Sleep Spaw",
+        "Classname": "ON_sleepingbag_camo",
+        "Price": 500,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "Stock": -1
+    },
+    {
+        "Name": "ARMARIO MMG",
+        "Classname": "mmg_equipment_locker_black_kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "ARMARIO MMG",
+        "Classname": "mmg_equipment_locker_green_kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "ARMARIO ARMA",
+        "Classname": "mmg_locker02_blue_kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "GUN HACK",
+        "Classname": "mmg_gun_rack_kit_blue",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "GUN HACK",
+        "Classname": "mmg_lockable_gun_rack_kit_grey",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "QUADRO DE ARMA",
+        "Classname": "mmg_gun_wall_kit_metal",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "GELADEIRA",
+        "Classname": "mmg_fridge_kit_beige",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]

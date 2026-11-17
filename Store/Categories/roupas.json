@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Camiseta Preta",
+        "Classname": "TShirt_Black",
+        "Price": 5,
+        "Description": "Camiseta preta básica",
+        "Stock": -1
+    },
+    {
+        "Name": "Camiseta Branca",
+        "Classname": "TShirt_White",
+        "Price": 5,
+        "Description": "Camiseta branca básica",
+        "Stock": -1
+    },
+    {
+        "Name": "Calça Jeans Azul",
+        "Classname": "Jeans_Blue",
+        "Price": 10,
+        "Description": "Calça jeans azul",
+        "Stock": -1
+    },
+    {
+        "Name": "Calça Jeans Preta",
+        "Classname": "Jeans_Black",
+        "Price": 10,
+        "Description": "Calça jeans preta",
+        "Stock": -1
+    },
+    {
+        "Name": "Botas de Trabalho",
+        "Classname": "WorkingBoots_Grey",
+        "Price": 8,
+        "Description": "Botas de trabalho cinza",
+        "Stock": -1
+    },
+    {
+        "Name": "Tênis Esportivo",
+        "Classname": "AthleticShoes_Black",
+        "Price": 7,
+        "Description": "Tênis esportivo preto",
+        "Stock": -1
+    },
+    {
+        "Name": "Boné Preto",
+        "Classname": "BaseballCap_Black",
+        "Price": 3,
+        "Description": "Boné preto básico",
+        "Stock": -1
+    },
+    {
+        "Name": "Mochila Pequena",
+        "Classname": "CourierBag",
+        "Price": 15,
+        "Description": "Mochila pequena para transporte",
+        "Stock": -1
+    }
+]

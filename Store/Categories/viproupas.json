@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "VIP Free 3 Dias",
+        "Classname": "VIP_ROUPAS_FREE_2D",
+        "TooltipActive": "true",
+        "Description": "VIP Roupas gratuito por 3 dias. Apenas UMA vez por player. Aproveite para experimentar!",
+        "Price": 0,
+        "IconPath": "DantyzShop/data/selecticonshop/vip/vip3dias.edds",
+        "Quantity": -1,
+        "Days": 3,
+        "KitID": 1,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP 7 Dias",
+        "Classname": "VIP_ROUPAS_7",
+        "TooltipActive": "false",
+        "Price": 250,
+        "IconPath": "DantyzShop/data/selecticonshop/vip/vip7dias.edds",
+        "Quantity": -1,
+        "KitID": 1,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP 20 Dias",
+        "Classname": "VIP_ROUPAS_20",
+        "TooltipActive": "false",
+        "Price": 600,
+        "IconPath": "DantyzShop/data/selecticonshop/vip/vip20dias.edds",
+        "Quantity": -1,
+        "KitID": 2,
+        "Stock": -1
+    },
+    {
+        "Name": "VIP 30 Dias",
+        "Classname": "VIP_ROUPAS_30",
+        "TooltipActive": "false",
+        "Price": 900,
+        "IconPath": "DantyzShop/data/selecticonshop/vip/vip30dias.edds",
+        "Quantity": -1,
+        "KitID": 3,
+        "Stock": -1
+    }
+]

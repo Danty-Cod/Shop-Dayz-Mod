@@ -1,0 +1,326 @@
+[
+    {
+        "Name": "Carne Enlatada",
+        "Classname": "TacticalBaconCan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 1,
+        "Stock": -1
+    },
+    {
+        "Name": "Feijao Enlatado",
+        "Classname": "BakedBeansCan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 2,
+        "Stock": -1
+    },
+    {
+        "Name": "Espaguete Enlatado",
+        "Classname": "SpaghettiCan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 3,
+        "Stock": -1
+    },
+    {
+        "Name": "Atum Enlatado",
+        "Classname": "TunaCan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 4,
+        "Stock": -1
+    },
+    {
+        "Name": "Caixa de Prego",
+        "Classname": "NailBox",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 5,
+        "Stock": -1
+    },
+    {
+        "Name": "Pessegos Enlatados",
+        "Classname": "PeachesCan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 6,
+        "Stock": -1
+    },
+    {
+        "Name": "Arroz",
+        "Classname": "Rice",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 7,
+        "Stock": -1
+    },
+    {
+        "Name": "Cereal Crunchin",
+        "Classname": "BoxCerealCrunchin",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 8,
+        "Stock": -1
+    },
+    {
+        "Name": "Leite em Po",
+        "Classname": "PowderedMilk",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 9,
+        "Stock": -1
+    },
+    {
+        "Name": "Maca",
+        "Classname": "Apple",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 10,
+        "Stock": -1
+    },
+    {
+        "Name": "Pera",
+        "Classname": "Pear",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 11,
+        "Stock": -1
+    },
+    {
+        "Name": "Caixa de Prego",
+        "Classname": "NailBox",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 12,
+        "Stock": -1
+    },
+    {
+        "Name": "Banana",
+        "Classname": "Banana",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 13,
+        "Stock": -1
+    },
+    {
+        "Name": "Bacon Enlatada",
+        "Classname": "TacticalBaconCan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 14,
+        "Stock": -1
+    },
+    {
+        "Name": "Batata",
+        "Classname": "Potato",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 15,
+        "Stock": -1
+    },
+    {
+        "Name": "Garrafa de Agua",
+        "Classname": "WaterBottle",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 16,
+        "Stock": -1
+    },
+    {
+        "Name": "Cantil",
+        "Classname": "Canteen",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 17,
+        "Stock": -1
+    },
+    {
+        "Name": "Refrigerante Cola",
+        "Classname": "SodaCan_Cola",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 3,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 18,
+        "Stock": -1
+    },
+    {
+        "Name": "Refrigerante Pipsi",
+        "Classname": "SodaCan_Pipsi",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 3,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 19,
+        "Stock": -1
+    },
+    {
+        "Name": "adrenalina",
+        "Classname": "Epinephrine",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 20,
+        "Stock": -1
+    },
+    {
+        "Name": "Bandagem",
+        "Classname": "BandageDressing",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 21,
+        "Stock": -1
+    },
+    {
+        "Name": "Faca de Combate",
+        "Classname": "CombatKnife",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 22,
+        "Stock": -1
+    },
+    {
+        "Name": "Machado",
+        "Classname": "Hatchet",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 23,
+        "Stock": -1
+    },
+    {
+        "Name": "Fan",
+        "Classname": "GB_Fan",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 2,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 24,
+        "Stock": -1
+    },
+    {
+        "Name": "Adrenalina",
+        "Classname": "Epinephrine",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 25,
+        "Stock": -1
+    },
+    {
+        "Name": "Placa De Video",
+        "Classname": "GB_GPUBOX",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 26,
+        "Stock": -1
+    },
+    {
+        "Name": "Caixa De Prego",
+        "Classname": "Nailbox",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 27,
+        "Stock": -1
+    },
+    {
+        "Name": "Isqueiro",
+        "Classname": "PetrolLighter",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 28,
+        "Stock": -1
+    },
+    {
+        "Name": "Carteira Trade",
+        "Classname": "gb_TraderBitcoin",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 29,
+        "Stock": -1
+    },
+    {
+        "Name": "Premio Especial - Kit Sobrevivencia",
+        "Classname": "FirstAidKit",
+        "Price": 0,
+        "Quantity": -1,
+        "QuantityDrop": 1,
+        "IsVipFreeItem": true,
+        "DayOfMonth": 30,
+        "TooltipActive": "true",
+        "Description": "🎉 PRÊMIO ESPECIAL DO MÊS! 🎉|Kit de Sobrevivência Completo:|• 1x Kit Médico (principal)|• 1x Faca de Combate|• 1x Granda|• 1x Isqueiro|• 2x Bandagem|• 1x Carne Enlatada|Parabéns por manter seu VIP ativo!",
+        "Ground": [
+            {
+                "Classname": "CombatKnife",
+                "Quantity": 1
+            },
+            {
+                "Classname": "FoxyRadio_soundGrenade_goatscream",
+                "Quantity": 1
+            },
+            {
+                "Classname": "Lighter",
+                "Quantity": 1
+            },
+            {
+                "Classname": "BandageDressing",
+                "Quantity": 3
+            },
+            {
+                "Classname": "TacticalBaconCan",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    }
+]

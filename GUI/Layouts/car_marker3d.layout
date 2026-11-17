@@ -1,0 +1,65 @@
+PanelWidgetClass CarMarkerRoot {
+ name "CarMarkerRoot"
+ x 0
+ y 0
+ w 96
+ h 116
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ style blank
+ color 0 0 0 0
+ {
+  ImageWidgetClass Icon {
+   name "Icon"
+   x 16
+   y 0
+   w 64
+   h 64
+   hexactpos 1
+   vexactpos 1
+   hexactsize 1
+   vexactsize 1
+   ignorepointer 1
+   imageTexture "DantyzShop\data\selecticonshop\money\carros.edds"
+   mode blend
+   "src alpha" 1
+   color 1 0.831 0 1
+  }
+  TextWidgetClass Label {
+   name "Label"
+   x 0
+   y 66
+   w 96
+   h 22
+   hexactpos 1
+   vexactpos 1
+   hexactsize 1
+   vexactsize 1
+   ignorepointer 1
+   text "Carro"
+   font "gui/fonts/etelkatextpro14"
+   "text halign" center
+   "text valign" center
+   color 1 0.831 0 1
+  }
+  TextWidgetClass Dist {
+   name "Dist"
+   x 0
+   y 88
+   w 96
+   h 20
+   hexactpos 1
+   vexactpos 1
+   hexactsize 1
+   vexactsize 1
+   ignorepointer 1
+   text ""
+   font "gui/fonts/etelkatextpro12"
+   "text halign" center
+   "text valign" center
+   color 1 1 1 1
+  }
+ }
+}

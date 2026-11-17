@@ -1,0 +1,237 @@
+[
+    {
+        "Name": "Kit Constrution",
+        "Classname": "Barrel_Red",
+        "TooltipActive": "true",
+        "Price": 1000,
+        "Quantity": -1,
+        "Attachments": [],
+        "Ground": [
+            {
+                "Classname": "WoodenPlank",
+                "Quantity": 10
+            },
+            {
+                "Classname": "WoodenLog",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Nailbox",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Hatchet",
+                "Quantity": 3
+            },
+            {
+                "Classname": "MetalWire",
+                "Quantity": 5
+            },
+            {
+                "Classname": "Pliers",
+                "Quantity": 1
+            },
+            {
+                "Classname": "Whetstone",
+                "Quantity": 3
+            },
+            {
+                "Classname": "HandSaw",
+                "Quantity": 3
+            },
+            {
+                "Classname": "CodeLock",
+                "Quantity": 5
+            },
+            {
+                "Classname": "Rope",
+                "Quantity": 3
+            },
+            {
+                "Classname": "MetalPlate",
+                "Quantity": 1
+            },
+            {
+                "Classname": "Flag_Pirates",
+                "Quantity": 1
+            },
+            {
+                "Classname": "TerritoryFlagKit",
+                "Quantity": 1
+            },
+            {
+                "Classname": "shovel",
+                "Quantity": 1
+            },
+            {
+                "Classname": "pliers",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Kit Constrution 2",
+        "Classname": "Barrel_Red",
+        "TooltipActive": "true",
+        "Price": 1700,
+        "Quantity": -1,
+        "Attachments": [],
+        "Ground": [
+            {
+                "Classname": "WoodenPlank",
+                "Quantity": 20
+            },
+            {
+                "Classname": "WoodenLog",
+                "Quantity": 20
+            },
+            {
+                "Classname": "Nailbox",
+                "Quantity": 20
+            },
+            {
+                "Classname": "Hatchet",
+                "Quantity": 6
+            },
+            {
+                "Classname": "MetalWire",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Pliers",
+                "Quantity": 3
+            },
+            {
+                "Classname": "Whetstone",
+                "Quantity": 6
+            },
+            {
+                "Classname": "HandSaw",
+                "Quantity": 6
+            },
+            {
+                "Classname": "CodeLock",
+                "Quantity": 10
+            },
+            {
+                "Classname": "Rope",
+                "Quantity": 3
+            },
+            {
+                "Classname": "MetalPlate",
+                "Quantity": 2
+            },
+            {
+                "Classname": "Flag_Pirates",
+                "Quantity": 1
+            },
+            {
+                "Classname": "TerritoryFlagKit",
+                "Quantity": 1
+            },
+            {
+                "Classname": "shovel",
+                "Quantity": 1
+            },
+            {
+                "Classname": "pliers",
+                "Quantity": 1
+            }
+        ],
+        "Stock": -1
+    },
+    {
+        "Name": "Barraca Media",
+        "Classname": "MediumTent",
+        "Price": 100,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Barraca Grande",
+        "Classname": "LargeTent",
+        "Price": 150,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Barraca de Carro",
+        "Classname": "CarTent",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Barril Vermelho",
+        "Classname": "Barrel_Red",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Rede de Camuflagem",
+        "Classname": "Camonet",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Bandeira Branca",
+        "Classname": "Flag_Bohemia",
+        "Price": 1,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "storage Prateleira",
+        "Classname": "YM_FurnitureFE_Stand_Kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "storage de arma",
+        "Classname": "YM_FurnitureFE_WoodenGunRack_Kit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Armario",
+        "Classname": "m1_lockereqkit",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Code lock",
+        "Classname": "CodeLock",
+        "Price": 90,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "10 Chapa de metal",
+        "Classname": "MetalPlate",
+        "Price": 200,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "200 taboas",
+        "Classname": "WoodenPlank",
+        "Price": 600,
+        "Quantity": -1,
+        "QuantityDrop": 20,
+        "Stock": -1
+    },
+    {
+        "Name": "25 Troncos",
+        "Classname": "WoodenLog",
+        "Price": 400,
+        "Quantity": -1,
+        "QuantityDrop": 25,
+        "Stock": -1
+    }
+]

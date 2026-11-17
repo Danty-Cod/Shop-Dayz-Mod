@@ -1,0 +1,144 @@
+PanelWidgetClass ConfirmOverlay {
+ ignorepointer 0
+ color 0 0 0 0.7
+ position 0 0
+ size 1 1
+ hexactpos 0
+ vexactpos 0
+ hexactsize 0
+ vexactsize 0
+ priority 1000
+ style blank
+ {
+  PanelWidgetClass ConfirmDialog {
+   ignorepointer 0
+   color 0.1 0.1 0.1 0.98
+   position 0 0
+   size 0.28 0.26
+   halign center_ref
+   valign center_ref
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   style rover_sim_colorable
+   {
+    TextWidgetClass ConfirmTitle {
+     ignorepointer 1
+     position 0 0.08
+     size 1 0.14
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     text "Comprar este item?"
+     font "gui/fonts/etelkatextpro18"
+     "exact text" 0
+     "size to text h" 0
+     "size to text v" 0
+     "text halign" center
+     "text valign" center
+     "text color" 1 1 1 1
+    }
+    TextWidgetClass ConfirmItemName {
+     ignorepointer 1
+     position 0 0.3
+     size 1 0.13
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     text "Item"
+     font "gui/fonts/etelkatextpro18"
+     "exact text" 0
+     "size to text h" 0
+     "size to text v" 0
+     "text halign" center
+     "text valign" center
+     "text color" 1 0.8431 0 1
+    }
+    TextWidgetClass ConfirmPrice {
+     ignorepointer 1
+     position 0 0.48
+     size 1 0.12
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     text "Preco: 100 ZCoins"
+     font "gui/fonts/etelkatextpro16"
+     "exact text" 0
+     "size to text h" 0
+     "size to text v" 0
+     "text halign" center
+     "text valign" center
+     "text color" 1 0.6902 0.3608 1
+    }
+    ButtonWidgetClass ConfirmYesButton {
+     ignorepointer 0
+     color 0 0.7 0 1
+     position 0.14 0.72
+     size 0.28 0.16
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass ConfirmYesText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "SIM"
+       font "gui/fonts/etelkatextpro14"
+       "exact text" 0
+       "size to text h" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+    ButtonWidgetClass ConfirmNoButton {
+     ignorepointer 0
+     color 0.7 0 0 1
+     position 0.58 0.72
+     size 0.28 0.16
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass ConfirmNoText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "NAO"
+       font "gui/fonts/etelkatextpro14"
+       "exact text" 0
+       "size to text h" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+   }
+  }
+ }
+}

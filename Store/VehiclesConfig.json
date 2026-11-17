@@ -1,0 +1,1549 @@
+{
+    "Vehicles": [
+        {
+            "VehicleName": "Offroad_02",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Door_1_1",
+                "Offroad_02_Door_2_1",
+                "Offroad_02_Door_1_2",
+                "Offroad_02_Door_2_2",
+                "Offroad_02_Hood",
+                "Offroad_02_Trunk",
+                "CarBattery",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7",
+                "CarRadiator"
+            ]
+        },
+        {
+            "VehicleName": "OffroadHatchback_Blue",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackHood_Blue",
+                "HatchbackTrunk_Blue",
+                "HatchbackDoors_Driver_Blue",
+                "HatchbackDoors_CoDriver_Blue",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "OffroadHatchback_White",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackWheel",
+                "HatchbackHood_White",
+                "HatchbackTrunk_White",
+                "HatchbackDoors_Driver_White",
+                "HatchbackDoors_CoDriver_White",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Hatchback_02",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Door_1_1",
+                "Hatchback_02_Door_2_1",
+                "Hatchback_02_Door_1_2",
+                "Hatchback_02_Door_2_2",
+                "Hatchback_02_Hood",
+                "Hatchback_02_Trunk",
+                "CarRadiator",
+                "CarBattery",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Hatchback_02_Black",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Door_1_1_Black",
+                "Hatchback_02_Door_2_1_Black",
+                "Hatchback_02_Door_1_2_Black",
+                "Hatchback_02_Door_2_2_Black",
+                "Hatchback_02_Hood_Black",
+                "Hatchback_02_Trunk_Black",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Hatchback_02_Blue",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Wheel",
+                "Hatchback_02_Door_1_1_Blue",
+                "Hatchback_02_Door_2_1_Blue",
+                "Hatchback_02_Door_1_2_Blue",
+                "Hatchback_02_Door_2_2_Blue",
+                "Hatchback_02_Hood_Blue",
+                "Hatchback_02_Trunk_Blue",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "CivilianSedan",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanHood",
+                "CivSedanTrunk",
+                "CivSedanDoors_Driver",
+                "CivSedanDoors_CoDriver",
+                "CivSedanDoors_BackLeft",
+                "CivSedanDoors_BackRight",
+                "CarRadiator",
+                "CarBattery",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "CivilianSedan_Black",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanHood_Black",
+                "CivSedanTrunk_Black",
+                "CivSedanDoors_Driver_Black",
+                "CivSedanDoors_CoDriver_Black",
+                "CivSedanDoors_BackLeft_Black",
+                "CivSedanDoors_BackRight_Black",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "CivilianSedan_Wine",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanWheel",
+                "CivSedanHood_Wine",
+                "CivSedanTrunk_Wine",
+                "CivSedanDoors_Driver_Wine",
+                "CivSedanDoors_CoDriver_Wine",
+                "CivSedanDoors_BackLeft_Wine",
+                "CivSedanDoors_BackRight_Wine",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Sedan_02",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Wheel",
+                "Sedan_02_Door_1_1",
+                "Sedan_02_Door_2_1",
+                "Sedan_02_Door_1_2",
+                "Sedan_02_Door_2_2",
+                "Sedan_02_Hood",
+                "Sedan_02_Trunk",
+                "CarRadiator",
+                "CarBattery",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Truck_01_Covered",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_Door_1_1",
+                "Truck_01_Door_2_1",
+                "Truck_01_Hood",
+                "TruckBattery",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Truck_01_Covered_Orange",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_Wheel",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_WheelDouble",
+                "Truck_01_Hood_Orange",
+                "Truck_01_Door_1_1_Orange",
+                "Truck_01_Door_2_1_Orange",
+                "TruckBattery",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Sedan_02_Red",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+                "Sedan_02_Door_1_1_Red",
+                "Sedan_02_Door_2_1_Red",
+                "Sedan_02_Door_1_2_Red",
+                "Sedan_02_Door_2_2_Red",
+                "Sedan_02_Hood_Red",
+                "Sedan_02_Trunk_Red",
+                "CarRadiator",
+                "CarBattery",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Sedan_02_Grey",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+				"Sedan_02_Wheel",
+                "Sedan_02_Door_1_1_Grey",
+                "Sedan_02_Door_2_1_Grey",
+                "Sedan_02_Door_1_2_Grey",
+                "Sedan_02_Door_2_2_Grey",
+                "Sedan_02_Hood_Grey",
+                "Sedan_02_Trunk_Grey",
+                "CarRadiator",
+                "CarBattery",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver",
+                "Candy_JLTV_Doors_CoDriver",
+                "Candy_JLTV_Doors_Cargo1",
+                "Candy_JLTV_Doors_Cargo2",
+                "Candy_JLTV_Doors_Hood",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Green",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Green",
+                "Candy_JLTV_Doors_CoDriver_Green",
+                "Candy_JLTV_Doors_Cargo1_Green",
+                "Candy_JLTV_Doors_Cargo2_Green",
+                "Candy_JLTV_Doors_Hood_Green",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_White",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_White",
+                "Candy_JLTV_Doors_CoDriver_White",
+                "Candy_JLTV_Doors_Cargo1_White",
+                "Candy_JLTV_Doors_Cargo2_White",
+                "Candy_JLTV_Doors_Hood_White",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Pink",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Pink",
+                "Candy_JLTV_Doors_CoDriver_Pink",
+                "Candy_JLTV_Doors_Cargo1_Pink",
+                "Candy_JLTV_Doors_Cargo2_Pink",
+                "Candy_JLTV_Doors_Hood_Pink",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Red",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Red",
+                "Candy_JLTV_Doors_CoDriver_Red",
+                "Candy_JLTV_Doors_Cargo1_Red",
+                "Candy_JLTV_Doors_Cargo2_Red",
+                "Candy_JLTV_Doors_Hood_Red",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Yellow",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Yellow",
+                "Candy_JLTV_Doors_CoDriver_Yellow",
+                "Candy_JLTV_Doors_Cargo1_Yellow",
+                "Candy_JLTV_Doors_Cargo2_Yellow",
+                "Candy_JLTV_Doors_Hood_Yellow",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Grey",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Grey",
+                "Candy_JLTV_Doors_CoDriver_Grey",
+                "Candy_JLTV_Doors_Cargo1_Grey",
+                "Candy_JLTV_Doors_Cargo2_Grey",
+                "Candy_JLTV_Doors_Hood_Grey",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Apoc",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Apoc",
+                "Candy_JLTV_Doors_CoDriver_Apoc",
+                "Candy_JLTV_Doors_Cargo1_Apoc",
+                "Candy_JLTV_Doors_Cargo2_Apoc",
+                "Candy_JLTV_Doors_Hood_Apoc",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Candy_JLTV_Rust",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Wheel",
+                "Candy_JLTV_Doors_Driver_Rust",
+                "Candy_JLTV_Doors_CoDriver_Rust",
+                "Candy_JLTV_Doors_Cargo1_Rust",
+                "Candy_JLTV_Doors_Cargo2_Rust",
+                "Candy_JLTV_Doors_Hood_Rust",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_M1025_NoGun",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "TP_Apoc_M1025_Door_1_1",
+                "TP_Apoc_M1025_Door_2_1",
+                "TP_Apoc_M1025_Door_1_2",
+                "TP_Apoc_M1025_Door_2_2",
+                "TP_Apoc_M1025_Hood",
+                "TP_Apoc_M1025_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_M1025_NoGun_Black",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "TP_Apoc_M1025_Door_1_1_Black",
+                "TP_Apoc_M1025_Door_2_1_Black",
+                "TP_Apoc_M1025_Door_1_2_Black",
+                "TP_Apoc_M1025_Door_2_2_Black",
+                "TP_Apoc_M1025_Hood_Black",
+                "TP_Apoc_M1025_Trunk_Black",
+                "CarBattery",
+                "CarRadiator",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_M1025_NoGun_Camo",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "TP_Apoc_M1025_Door_1_1_Camo",
+                "TP_Apoc_M1025_Door_2_1_Camo",
+                "TP_Apoc_M1025_Door_1_2_Camo",
+                "TP_Apoc_M1025_Door_2_2_Camo",
+                "TP_Apoc_M1025_Hood_Camo",
+                "TP_Apoc_M1025_Trunk_Camo",
+                "CarBattery",
+                "CarRadiator",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_M1025_NoGun_Tan",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "Offroad_02_Wheel",
+                "TP_Apoc_M1025_Door_1_1_Tan",
+                "TP_Apoc_M1025_Door_2_1_Tan",
+                "TP_Apoc_M1025_Door_1_2_Tan",
+                "TP_Apoc_M1025_Door_2_2_Tan",
+                "TP_Apoc_M1025_Hood_Tan",
+                "TP_Apoc_M1025_Trunk_Tan",
+                "CarBattery",
+                "CarRadiator",
+                "GlowPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Driver",
+                "TP_ApocSuvDoors_CoDriver",
+                "TP_ApocSuvDoors_Cargo1",
+                "TP_ApocSuvDoors_Cargo2",
+                "TP_ApocSuv_Hood",
+                "TP_ApocSuv_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Black_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Black_Driver",
+                "TP_ApocSuvDoors_Black_CoDriver",
+                "TP_ApocSuvDoors_Black_Cargo1",
+                "TP_ApocSuvDoors_Black_Cargo2",
+                "TP_ApocSuv_Black_Hood",
+                "TP_ApocSuv_Black_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Blue_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Blue_Driver",
+                "TP_ApocSuvDoors_Blue_CoDriver",
+                "TP_ApocSuvDoors_Blue_Cargo1",
+                "TP_ApocSuvDoors_Blue_Cargo2",
+                "TP_ApocSuv_Blue_Hood",
+                "TP_ApocSuv_Blue_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Camo_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Camo_Driver",
+                "TP_ApocSuvDoors_Camo_CoDriver",
+                "TP_ApocSuvDoors_Camo_Cargo1",
+                "TP_ApocSuvDoors_Camo_Cargo2",
+                "TP_ApocSuv_Camo_Hood",
+                "TP_ApocSuv_Camo_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Green_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Green_Driver",
+                "TP_ApocSuvDoors_Green_CoDriver",
+                "TP_ApocSuvDoors_Green_Cargo1",
+                "TP_ApocSuvDoors_Green_Cargo2",
+                "TP_ApocSuv_Green_Hood",
+                "TP_ApocSuv_Green_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Grey_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Grey_Driver",
+                "TP_ApocSuvDoors_Grey_CoDriver",
+                "TP_ApocSuvDoors_Grey_Cargo1",
+                "TP_ApocSuvDoors_Grey_Cargo2",
+                "TP_ApocSuv_Grey_Hood",
+                "TP_ApocSuv_Grey_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Red_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Red_Driver",
+                "TP_ApocSuvDoors_Red_CoDriver",
+                "TP_ApocSuvDoors_Red_Cargo1",
+                "TP_ApocSuvDoors_Red_Cargo2",
+                "TP_ApocSuv_Red_Hood",
+                "TP_ApocSuv_Red_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "TP_Apoc_Yellow_Suv",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuv_Wheel",
+                "TP_ApocSuvDoors_Yellow_Driver",
+                "TP_ApocSuvDoors_Yellow_CoDriver",
+                "TP_ApocSuvDoors_Yellow_Cargo1",
+                "TP_ApocSuvDoors_Yellow_Cargo2",
+                "TP_ApocSuv_Yellow_Hood",
+                "TP_ApocSuv_Yellow_Trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Mercedes_190E",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Star_Mercedes_190E_Wheel",
+                "Star_Mercedes_190E_Wheel",
+                "Star_Mercedes_190E_Wheel",
+                "Star_Mercedes_190E_Wheel",
+                "Star_Mercedes_190E_Wheel",
+                "Star_Mercedes_190E_driver",
+                "Star_Mercedes_190E_codriver",
+                "Star_Mercedes_190E_cargo1",
+                "Star_Mercedes_190E_cargo2",
+                "Star_Mercedes_190E_hood",
+                "Star_Mercedes_190E_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Camaro_1969",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Star_Camaro_1969_Wheel",
+                "Star_Camaro_1969_Wheel",
+                "Star_Camaro_1969_Wheel",
+                "Star_Camaro_1969_Wheel",
+                "Star_Camaro_1969_driver",
+                "Star_Camaro_1969_codriver",
+                "Star_Camaro_1969_hood",
+                "Star_Camaro_1969_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "A_Charger",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "ChargerWheel_offroad",
+                "ChargerWheel_offroad",
+                "ChargerWheel_offroad",
+                "ChargerWheel_offroad",
+                "Charger_driver",
+                "Charger_codriver",
+                "Charger_hood",
+                "Charger_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "chevelle1970",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "chevelle1970Wheel_offroad",
+                "chevelle1970Wheel_offroad",
+                "chevelle1970Wheel_offroad",
+                "chevelle1970Wheel_offroad",
+                "chevelle1970_driver",
+                "chevelle1970_codriver",
+                "chevelle1970_hood",
+                "chevelle1970_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "e60",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "e60Wheel_offroad",
+                "e60Wheel_offroad",
+                "e60Wheel_offroad",
+                "e60Wheel_offroad",
+                "e60_driver",
+                "e60_codriver",
+                "e60_cargo1",
+                "e60_cargo2",
+                "e60_hood",
+                "e60_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "M3_G80",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "M3_G80Wheel_offroad",
+                "M3_G80Wheel_offroad",
+                "M3_G80Wheel_offroad",
+                "M3_G80Wheel_offroad",
+                "M3_G80_driver",
+                "M3_G80_codriver",
+                "M3_G80_cargo1",
+                "M3_G80_cargo2",
+                "M3_G80_hood",
+                "M3_G80_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "a_m5",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "m5Wheel_offroad",
+                "m5Wheel_offroad",
+                "m5Wheel_offroad",
+                "m5Wheel_offroad",
+                "m5_driver",
+                "m5_codriver",
+                "m5_cargo1",
+                "m5_cargo2",
+                "m5_hood",
+                "m5_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "gt63",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "gt63Wheel_offroad",
+                "gt63Wheel_offroad",
+                "gt63Wheel_offroad",
+                "gt63Wheel_offroad",
+                "gt63_driver",
+                "gt63_codriver",
+                "gt63_cargo1",
+                "gt63_cargo2",
+                "gt63_hood",
+                "gt63_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "esc",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "escWheel_offroad",
+                "escWheel_offroad",
+                "escWheel_offroad",
+                "escWheel_offroad",
+                "esc_driver",
+                "esc_codriver",
+                "esc_cargo1",
+                "esc_cargo2",
+                "esc_hood",
+                "esc_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "HennesseyF150D",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "HennesseyF150DWheel_offroad",
+                "HennesseyF150DWheel_offroad",
+                "HennesseyF150DWheel_offroad",
+                "HennesseyF150DWheel_offroad",
+                "HennesseyF150D_driver",
+                "HennesseyF150D_codriver",
+                "HennesseyF150D_cargo1",
+                "HennesseyF150D_cargo2",
+                "HennesseyF150D_hood",
+                "HennesseyF150D_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "x5mcompetition",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "x5mcompetition_Wheel",
+                "x5mcompetition_Wheel",
+                "x5mcompetition_Wheel",
+                "x5mcompetition_Wheel",
+                "x5mcompetition_Wheel",
+                "x5mcompetition_driver",
+                "x5mcompetition_codriver",
+                "x5mcompetition_cargo1",
+                "x5mcompetition_cargo2",
+                "x5mcompetition_hood",
+                "x5mcompetition_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Jeep_Rubi_Extra",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "Star_Jeep_Rubi_Extra_Wheel",
+                "Star_Jeep_Rubi_Extra_Wheel",
+                "Star_Jeep_Rubi_Extra_Wheel",
+                "Star_Jeep_Rubi_Extra_Wheel",
+                "Star_Jeep_Rubi_Extra_Wheel",
+                "Star_Jeep_Rubi_Extra_driver",
+                "Star_Jeep_Rubi_Extra_codriver",
+                "Star_Jeep_Rubi_Extra_cargo1",
+                "Star_Jeep_Rubi_Extra_cargo2",
+                "Star_Jeep_Rubi_Extra_hood",
+                "Star_Jeep_Rubi_Extra_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Rover_Defender",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "Star_Rover_Defender_Wheel",
+                "Star_Rover_Defender_Wheel",
+                "Star_Rover_Defender_Wheel",
+                "Star_Rover_Defender_Wheel",
+                "Star_Rover_Defender_Wheel",
+                "Star_Rover_Defender_driver",
+                "Star_Rover_Defender_codriver",
+                "Star_Rover_Defender_cargo1",
+                "Star_Rover_Defender_cargo2",
+                "Star_Rover_Defender_cargo3",
+                "Star_Rover_Defender_hood",
+                "Star_Rover_Defender_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Hummer_H1",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "Star_Hummer_H1_Wheel",
+                "Star_Hummer_H1_Wheel",
+                "Star_Hummer_H1_Wheel",
+                "Star_Hummer_H1_Wheel",
+                "Star_Hummer_H1_Wheel",
+                "Star_Hummer_H1_driver",
+                "Star_Hummer_H1_codriver",
+                "Star_Hummer_H1_cargo1",
+                "Star_Hummer_H1_cargo2",
+                "Star_Hummer_H1_cargo3",
+                "Star_Hummer_H1_hood",
+                "Star_Hummer_H1_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "hx58_Black",
+            "SpawnDistance": 6.0,
+            "Parts": [
+                "hx58Wheel_offroad",
+                "hx58Wheel_offroad",
+                "hx58Wheel_offroad",
+                "hx58Wheel_offroad",
+                "hx58Wheel_offroad",
+                "hx58Wheel_offroad",
+                "hx58Wheel_offroad",
+                "hx58_driver_Black",
+                "hx58_codriver_Black",
+                "hx58_hood_Black",
+                "hx58_trunk_Black",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Golf_MK1",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_driver",
+                "Star_Golf_MK1_codriver",
+                "Star_Golf_MK1_hood",
+                "Star_Golf_MK1_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Golf_MK1_Blue",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_driver_Blue",
+                "Star_Golf_MK1_codriver_Blue",
+                "Star_Golf_MK1_hood_Blue",
+                "Star_Golf_MK1_trunk_Blue",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Golf_MK1_jade",
+            "SpawnDistance": 4.5,
+            "Parts": [
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_Wheel",
+                "Star_Golf_MK1_driver_jade",
+                "Star_Golf_MK1_codriver_jade",
+                "Star_Golf_MK1_hood_jade",
+                "Star_Golf_MK1_trunk_jade",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "tundra",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "tundraWheel_offroad",
+                "tundraWheel_offroad",
+                "tundraWheel_offroad",
+                "tundraWheel_offroad",
+                "tundra_driver",
+                "tundra_codriver",
+                "tundra_cargo1",
+                "tundra_cargo2",
+                "tundra_hood",
+                "tundra_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "Star_Chevrolet_Z71",
+            "SpawnDistance": 5.0,
+            "Parts": [
+                "Star_Chevrolet_Z71_Wheel",
+                "Star_Chevrolet_Z71_Wheel",
+                "Star_Chevrolet_Z71_Wheel",
+                "Star_Chevrolet_Z71_Wheel",
+                "Star_Chevrolet_Z71_Wheel",
+                "Star_Chevrolet_Z71_driver",
+                "Star_Chevrolet_Z71_codriver",
+                "Star_Chevrolet_Z71_cargo1",
+                "Star_Chevrolet_Z71_cargo2",
+                "Star_Chevrolet_Z71_hood",
+                "Star_Chevrolet_Z71_trunk",
+                "CarBattery",
+                "CarRadiator",
+                "SparkPlug",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Black",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_White",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Pink",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Red",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Blue",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Green",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Orange",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Yellow",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Gold",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Police",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rust",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Grey",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Black",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Green",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Orange",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Pink",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Red",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_White",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "MBM_HarleyDavidsonFatBoy_Rusty_Yellow",
+            "SpawnDistance": 3.5,
+            "Parts": [
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Front",
+                "MBM_HarleyDavidsonFatBoy_Wheel_Rusty_Rear",
+                "MBM_HarleyFatBoy_SaddleBags",
+                "CarBattery",
+                "SparkPlug"
+            ]
+        },
+        {
+            "VehicleName": "Jet_ski_RUS",
+            "SpawnDistance": 4.0,
+            "Parts": [ "SparkPlug", "CarBattery" ]
+        },
+        {
+            "VehicleName": "Jet_ski_RUS_camo",
+            "SpawnDistance": 4.0,
+            "Parts": [ "SparkPlug", "CarBattery" ]
+        },
+        {
+            "VehicleName": "Jet_ski_RUS_camo2",
+            "SpawnDistance": 4.0,
+            "Parts": [ "SparkPlug", "CarBattery" ]
+        },
+        {
+            "VehicleName": "ATV_RUS",
+            "SpawnDistance": 4.0,
+            "Parts": [ "ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel", "ATV_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "ATV_RUS_camo",
+            "SpawnDistance": 4.0,
+            "Parts": [ "ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel", "ATV_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "ATV_RUS_blue",
+            "SpawnDistance": 4.0,
+            "Parts": [ "ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel", "ATV_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "ATV_RUS_red",
+            "SpawnDistance": 4.0,
+            "Parts": [ "ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel", "ATV_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "ATV_RUS_Gray",
+            "SpawnDistance": 4.0,
+            "Parts": [ "ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel","ATV_RUS_wheel", "ATV_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Harley_Davidson_RUS",
+            "SpawnDistance": 3.5,
+            "Parts": [ "Harley_Davidson_RUS_wheel","Harley_Davidson_RUS_wheel","Harley_Davidson_RUS_wheel", "Harley_Davidson_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Harley_Davidson_RUS_red",
+            "SpawnDistance": 3.5,
+            "Parts": [ "Harley_Davidson_RUS_wheel","Harley_Davidson_RUS_wheel","Harley_Davidson_RUS_wheel", "Harley_Davidson_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Harley_Davidson_RUS_green",
+            "SpawnDistance": 3.5,
+            "Parts": [ "Harley_Davidson_RUS_wheel","Harley_Davidson_RUS_wheel","Harley_Davidson_RUS_wheel", "Harley_Davidson_RUS_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Dnepr_MT_11",
+            "SpawnDistance": 3.5,
+            "Parts": [ "Dnepr_MT_11_wheel","Dnepr_MT_11_wheel","Dnepr_MT_11_wheel", "Dnepr_MT_11_tent", "Dnepr_MT_11_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Dnepr_MT_11_K",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Dnepr_MT_11_wheel","Dnepr_MT_11_wheel","Dnepr_MT_11_wheel", "Dnepr_MT_11_tent", "Dnepr_MT_11_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Izh_56_RUS",
+            "SpawnDistance": 3.5,
+            "Parts": [ "Izh_56_RUS_wheel","Izh_56_RUS_wheel","Izh_56_RUS_wheel", "Izh_56_RUS_doors_trunk", "Izh_56_RUS_doors_hood", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Izh_56K_RUS",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Izh_56_RUS_wheel","Izh_56_RUS_wheel","Izh_56_RUS_wheel", "Izh_56_RUS_doors_trunk", "Izh_56_RUS_doors_hood", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Buran",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Buran_wheel","Buran_wheel","Buran_wheel", "Buran_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Buran_camo",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Buran_wheel","Buran_wheel","Buran_wheel", "Buran_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Buran_blue",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Buran_wheel","Buran_wheel","Buran_wheel", "Buran_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Buran_red",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Buran_wheel","Buran_wheel","Buran_wheel", "Buran_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "Buran_snow",
+            "SpawnDistance": 4.0,
+            "Parts": [ "Buran_wheel","Buran_wheel","Buran_wheel", "Buran_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "motorbike",
+            "SpawnDistance": 3.5,
+            "Parts": [ "motorbike_wheel","motorbike_wheel","motorbike_wheel", "motorbike_ammo_box", "motorbike_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "motorbike_green",
+            "SpawnDistance": 3.5,
+            "Parts": [ "motorbike_wheel","motorbike_wheel","motorbike_wheel", "motorbike_ammo_box", "motorbike_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "motorbike_sand",
+            "SpawnDistance": 3.5,
+            "Parts": [ "motorbike_wheel","motorbike_wheel","motorbike_wheel", "motorbike_ammo_box", "motorbike_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "vino_RF",
+            "SpawnDistance": 3.5,
+            "Parts": [ "vino_RF_wheel","vino_RF_wheel","vino_RF_wheel", "vino_RF_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "vino_RF_red",
+            "SpawnDistance": 3.5,
+            "Parts": [ "vino_RF_wheel","vino_RF_wheel","vino_RF_wheel", "vino_RF_doors_trunk_red", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "URAL_M62",
+            "SpawnDistance": 4.5,
+            "Parts": [ "URAL_M62_wheel","URAL_M62_wheel","URAL_M62_wheel", "URAL_M62_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "URAL_M62_milicia",
+            "SpawnDistance": 4.5,
+            "Parts": [ "URAL_M62_wheel_milicia","URAL_M62_wheel_milicia","URAL_M62_wheel_milicia", "URAL_M62_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "moped_80",
+            "SpawnDistance": 3.5,
+            "Parts": [ "moped_80_wheel","moped_80_wheel","moped_80_wheel", "moped_80_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "jawa_350_638",
+            "SpawnDistance": 3.5,
+            "Parts": [ "jawa_350_638_wheel","jawa_350_638_wheel","jawa_350_638_wheel", "jawa_350_638_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "DadyBikeRF",
+            "SpawnDistance": 3.5,
+            "Parts": [ "DadyBikeRF_wheel","DadyBikeRF_wheel","DadyBikeRF_wheel", "DadyBikeRF_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "DadyBikeRF_black",
+            "SpawnDistance": 3.5,
+            "Parts": [ "DadyBikeRF_wheel","DadyBikeRF_wheel","DadyBikeRF_wheel", "DadyBikeRF_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        },
+        {
+            "VehicleName": "DadyBikeRF_camo",
+            "SpawnDistance": 3.5,
+            "Parts": [ "DadyBikeRF_wheel","DadyBikeRF_wheel","DadyBikeRF_wheel", "DadyBikeRF_doors_trunk", "SparkPlug", "CarBattery", "HeadlightH7" ]
+        }
+    ]
+}

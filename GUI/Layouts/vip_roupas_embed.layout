@@ -1,0 +1,175 @@
+PanelWidgetClass RoupasEmbedRoot {
+ ignorepointer 0
+ position 0 0
+ size 1 1
+ halign center_ref
+ valign center_ref
+ hexactsize 0
+ vexactsize 0
+ color 0 0 0 0
+ {
+  PanelWidgetClass SelectorsPanel {
+   ignorepointer 0
+   position 0.02 0.02
+   size 0.42 0.92
+   halign left_ref
+   valign top_ref
+   hexactsize 0
+   vexactsize 0
+   color 0.1 0.1 0.1 0.7
+   {
+    GridSpacerWidgetClass SelGrid {
+     ignorepointer 0
+     position 0.03 0.03
+     size 0.94 0.94
+     halign center_ref
+     valign top_ref
+     hexactsize 0
+     vexactsize 0
+     Columns 1
+     Rows 8
+     {
+      PanelWidgetClass RowTops {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass TopsPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass TopsLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Camiseta: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass TopsNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowPants {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass PantsPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass PantsLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Calca: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass PantsNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowBoots {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass BootsPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass BootsLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Botas: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass BootsNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowGloves {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass GlovesPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass GlovesLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Luvas: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass GlovesNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowHelmets {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass HelmetsPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass HelmetsLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Cabeca: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass HelmetsNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowVests {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass VestsPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass VestsLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Colete: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass VestsNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowBackpacks {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass BackpacksPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass BackpacksLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Mochila: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass BackpacksNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+      PanelWidgetClass RowBelts {
+       ignorepointer 0
+       position 0 0
+       size 1 1
+       hexactsize 0
+       vexactsize 0
+       color 0.16 0.16 0.16 0.8
+       {
+        ButtonWidgetClass BeltsPrev { ignorepointer 0 position 0 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "<" color 0.3 0.3 0.3 1 }
+        TextWidgetClass BeltsLabel { ignorepointer 1 position 0.13 0 size 0.74 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text "Cinto: ---" font "gui/fonts/etelkatextpro14" "text halign" center "text valign" center }
+        ButtonWidgetClass BeltsNext { ignorepointer 0 position 0.87 0 size 0.13 1 halign left_ref valign center_ref hexactsize 0 vexactsize 0 text ">" color 0.3 0.3 0.3 1 }
+       }
+      }
+     }
+    }
+   }
+  }
+
+  PanelWidgetClass PreviewPanel {
+   ignorepointer 0
+   position 0.46 0.02
+   size 0.36 0.82
+   halign left_ref
+   valign top_ref
+   hexactsize 0
+   vexactsize 0
+   color 0.06 0.06 0.06 0.7
+   {
+    PlayerPreviewWidgetClass PlayerPreview {
+     ignorepointer 0
+     position 0 0
+     size 1 1
+     halign center_ref
+     valign center_ref
+     hexactsize 0
+     vexactsize 0
+    }
+   }
+  }
+
+  ButtonWidgetClass ApplyButton {
+   ignorepointer 0
+   position 0.55 0.9
+   size 0.18 0.07
+   halign left_ref
+   valign top_ref
+   hexactsize 0
+   vexactsize 0
+   text "APLICAR"
+   color 0.2 0.6 0.2 1
+  }
+ }
+}

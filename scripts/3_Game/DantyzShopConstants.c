@@ -1,0 +1,2 @@
+const int MENU_DANTYZ_SHOP = 20100;
+const int MENU_DANTYZ_VIP_ROUPAS = 20101;

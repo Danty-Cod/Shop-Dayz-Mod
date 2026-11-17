@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "Mochila",
+        "Classname": "AliceBag_ColorBase",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Lanterna",
+        "Classname": "Flashlight",
+        "Price": 15,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]

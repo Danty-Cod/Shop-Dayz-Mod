@@ -1,0 +1,86 @@
+[
+    {
+        "Name": "Bandagem",
+        "Classname": "BandageDressing",
+        "Price": 10,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit de Primeiros Socorros",
+        "Classname": "FirstAidKit",
+        "Price": 25,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Spray Desinfetante",
+        "Classname": "DisinfectantSpray",
+        "Price": 30,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Bolsa de Soro",
+        "Classname": "SalineBag",
+        "Price": 40,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Kit de Sangue IV",
+        "Classname": "StartKitIV",
+        "Price": 35,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Comprimidos de Carvao",
+        "Classname": "CharcoalTablets",
+        "Price": 15,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Antibioticos Tetraciclina",
+        "Classname": "TetracyclineAntibiotics",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Analgesicos",
+        "Classname": "PainkillerTablets",
+        "Price": 18,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Epinefrina",
+        "Classname": "Epinephrine",
+        "Price": 50,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Morfina",
+        "Classname": "Morphine",
+        "Price": 60,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Vitaminas",
+        "Classname": "VitaminBottle",
+        "Price": 12,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Termometro",
+        "Classname": "Thermometer",
+        "Price": 8,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]

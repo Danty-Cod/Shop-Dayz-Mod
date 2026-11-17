@@ -1,0 +1,238 @@
+PanelWidgetClass ProductWrapper {
+ color 0.9725 0.8431 0 0
+ position 0 0
+ size 200 220
+ hexactpos 0
+ vexactpos 0
+ hexactsize 1
+ vexactsize 1
+ style blank
+ {
+  PanelWidgetClass Highlight {
+   visible 0
+   ignorepointer 1
+   color 0.2353 0.6235 0.3333 1
+   size 1 1
+   halign center_ref
+   valign center_ref
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   style DayZDefaultPanel
+  }
+  PanelWidgetClass CardPanel {
+   disabled 0
+   clipchildren 1
+   keepsafezone 0
+   color 0.8745 0.7686 0.451 0.5294
+   position 0.00067 -0.00547
+   size 0.9978 1.00604
+   hexactpos 0
+   vexactpos 0
+   hexactsize 0
+   vexactsize 0
+   style Empty
+   {
+    PanelWidgetClass PanelTitle {
+     ignorepointer 1
+     color 0 0 0 0.7843
+     position 0.02 0.02
+     size 0.96 0.22
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass ItemName {
+       visible 1
+       ignorepointer 1
+       position 0.02 0.02
+       size 0.96 0.96
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Normal
+       text "Offroad 02 - Camo"
+       font "gui/fonts/etelkatextpro14"
+       "exact text" 0
+       "size to text h" 0
+       "size to text v" 0
+       "text halign" center
+       "text valign" center
+       "text wrap" 1
+      }
+     }
+    }
+    PanelWidgetClass PanelStatus {
+     ignorepointer 1
+     color 0.8 0.6 0 0.9
+     position 0.02 0.25
+     size 0.96 0.08
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass StatusText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "[SEM SEGURO]"
+       font "gui/fonts/etelkatextpro12"
+       "exact text" 0
+       "size to text h" 0
+       "size to text v" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+    PanelWidgetClass PanelPreview {
+     ignorepointer 1
+     color 0 0 0 0.7843
+     position 0.02 0.34
+     size 0.96 0.30
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      ItemPreviewWidgetClass ProductPreview {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+      }
+     }
+    }
+    PanelWidgetClass PanelPrice {
+     ignorepointer 1
+     color 0 0 0 0.7843
+     position 0.02 0.645
+     size 0.96 0.10
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      PanelWidgetClass GridPrice {
+       ignorepointer 1
+       color 0.2353 0.3333 0.6235 1
+       position 0 0
+       size 1 1
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       scaled 1
+       {
+        TextWidgetClass ItemCost {
+         ignorepointer 1
+         color 1 0.6902 0.3608 1
+         position 0 0
+         size 1 1
+         hexactpos 0
+         vexactpos 0
+         hexactsize 0
+         vexactsize 0
+         text "PROTEGIDO"
+         font "gui/fonts/etelkatextpro14"
+         "exact text" 0
+         "size to text h" 0
+         "size to text v" 0
+         "text halign" center
+         "text valign" center
+        }
+       }
+      }
+     }
+    }
+    ButtonWidgetClass BuyButton {
+     ignorepointer 0
+     color 0 0.7 0 1
+     position 0.02 0.755
+     size 0.96 0.11
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass BuyText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "RASTREAR"
+       font "gui/fonts/etelkatextpro12"
+       "exact text" 0
+       "size to text h" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+    ButtonWidgetClass RecallButton {
+     ignorepointer 0
+     color 0 0.4 0.8 1
+     position 0.02 0.875
+     size 0.96 0.11
+     hexactpos 0
+     vexactpos 0
+     hexactsize 0
+     vexactsize 0
+     style DayZDefaultPanelBottom
+     {
+      TextWidgetClass RecallText {
+       ignorepointer 1
+       position 0 0
+       size 1 1
+       halign center_ref
+       valign center_ref
+       hexactpos 0
+       vexactpos 0
+       hexactsize 0
+       vexactsize 0
+       style Bold
+       text "PUXAR CARRO"
+       font "gui/fonts/etelkatextpro12"
+       "exact text" 0
+       "size to text h" 0
+       "text halign" center
+       "text valign" center
+       "text color" 1 1 1 1
+      }
+     }
+    }
+   }
+  }
+ }
+}

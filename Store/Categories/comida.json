@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "Carne Enlatada",
+        "Classname": "TacticalBaconCan",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Feijao Enlatado",
+        "Classname": "BakedBeansCan",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Espaguete Enlatado",
+        "Classname": "SpaghettiCan",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Atum Enlatado",
+        "Classname": "TunaCan",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Sardinhas Enlatadas",
+        "Classname": "SardinesCan",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Pessegos Enlatados",
+        "Classname": "PeachesCan",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Arroz",
+        "Classname": "Rice",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Cereal Crunchin",
+        "Classname": "BoxCerealCrunchin",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Refrigerante Cola",
+        "Classname": "SodaCan_Cola",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    },
+    {
+        "Name": "Refrigerante Pipsi",
+        "Classname": "SodaCan_Pipsi",
+        "Price": 20,
+        "Quantity": -1,
+        "Stock": -1
+    }
+]
