@@ -5,6 +5,7 @@ class DantyzTrackerSession
     int    expiryTime;   
     ref array<ref DantyzShopVehicleData> insured;
     bool dirty;         
+}
 
 class DantyzCarTracker
 {

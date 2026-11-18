@@ -96,6 +96,17 @@ class DantyzVipFilaManager
 
         DantyzVipFilaPlayerData data = new DantyzVipFilaPlayerData();
         JsonFileLoader<DantyzVipFilaPlayerData>.JsonLoadFile(path, data);
+
+        // dias restantes sempre pela data de expiracao (o valor salvo era o da compra e nao diminuia)
+        if (DantyzVipDate.DaysLeft(data.expirationDate) < 0)
+        {
+            data.isActive = false;
+            data.daysRemaining = 0;
+        }
+        else
+        {
+            data.daysRemaining = DantyzVipDate.DisplayDays(data.expirationDate);
+        }
         return data;
     }
 
@@ -121,7 +132,8 @@ class DantyzVipFilaManager
 
         if (existing && existing.isActive && !IsExpired(existing.expirationDate))
         {
-            totalDays = existing.daysRemaining + days;
+            // renovando: soma ao que ainda falta de verdade
+            totalDays = DantyzVipDate.DaysLeft(existing.expirationDate) + days;
         }
         else
         {
@@ -250,18 +262,7 @@ class DantyzVipFilaManager
     private static string AddDaysIso(int days)
     {
         int year, month, day;
-        GetYearMonthDayUTC(year, month, day);
-        day += days;
-        while (day > 30)
-        {
-            day -= 30;
-            month++;
-            if (month > 12)
-            {
-                month = 1;
-                year++;
-            }
-        }
+        DantyzVipDate.AddDays(days, year, month, day);
         return BuildIso(year, month, day, true);
     }
 

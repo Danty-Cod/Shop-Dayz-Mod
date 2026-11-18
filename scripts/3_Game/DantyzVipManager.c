@@ -11,24 +11,9 @@ class DantyzVipData
         DaysRemaining = days;
         KitID = kitID;
         
-        // Calcula data de expiração
-        int year, month, day, hour, minute, second;
-        GetYearMonthDayUTC(year, month, day);
-        
-        // Adiciona os dias
-        day += days;
-        
-        // Ajusta mês/ano se necessário (simplificado)
-        while (day > 30)
-        {
-            day -= 30;
-            month++;
-            if (month > 12)
-            {
-                month = 1;
-                year++;
-            }
-        }
+        // Calcula data de expiração (calendario real)
+        int year, month, day;
+        DantyzVipDate.AddDays(days, year, month, day);
         
         ExpirationDate = day.ToString() + "/" + month.ToString() + "/" + year.ToString();
     }
@@ -154,7 +139,11 @@ class DantyzVipManager
         // Se já tem VIP ativo (não expirado), SOMA os dias
         if (existingVip && !existingVip.IsExpired())
         {
-            int totalDays = existingVip.DaysRemaining + days;
+            // renovando: soma ao que ainda falta de verdade (DaysRemaining salvo era o da compra)
+            int left = DantyzVipDate.DaysLeft(existingVip.ExpirationDate);
+            if (left < 0)
+                left = 0;
+            int totalDays = left + days;
             
             
             // Remove o VIP antigo
@@ -199,22 +188,7 @@ class DantyzVipManager
     {
         // Calcula data de expiração no formato ISO 8601
         int year, month, day;
-        GetYearMonthDayUTC(year, month, day);
-        
-        // Adiciona os dias
-        day += days;
-        
-        // Ajusta mês/ano se necessário
-        while (day > 30)
-        {
-            day -= 30;
-            month++;
-            if (month > 12)
-            {
-                month = 1;
-                year++;
-            }
-        }
+        DantyzVipDate.AddDays(days, year, month, day);
         
         // Formata data ISO 8601
         string expirationDate = year.ToString() + "-";

@@ -58,6 +58,17 @@ class DantyzVipPlayerChecker
             return null;
         }
         
+        // dias restantes sempre pela data de expiracao (o valor salvo era o da compra e nao diminuia)
+        if (DantyzVipDate.DaysLeft(vipData.expirationDate) < 0)
+        {
+            vipData.isActive = false;
+            vipData.daysRemaining = 0;
+        }
+        else
+        {
+            vipData.daysRemaining = DantyzVipDate.DisplayDays(vipData.expirationDate);
+        }
+        
         return vipData;
     }
     

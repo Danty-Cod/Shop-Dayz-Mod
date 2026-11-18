@@ -562,6 +562,19 @@ class DantyzShopMenu extends UIScriptedMenu
                 costWidget.SetText(item.Price.ToString());
         }
         
+        // TEST DRIVE: carros ganham o botao TESTAR ao lado do COMPRAR (o servidor confere tudo)
+        bool testDriveOn = (!m_Config || m_Config.TestDriveEnabled != 0);
+        if (testDriveOn && !item.IsVipFreeItem && (GetGame().IsKindOf(item.Classname, "CarScript") || GetGame().IsKindOf(item.Classname, "Car")))
+        {
+            ButtonWidget cardBuyBtn = ButtonWidget.Cast(card.FindAnyWidget("BuyButton"));
+            ButtonWidget cardTestBtn = ButtonWidget.Cast(card.FindAnyWidget("TestButton"));
+            if (cardBuyBtn && cardTestBtn)
+            {
+                cardBuyBtn.SetSize(0.47, 0.15);
+                cardTestBtn.Show(true);
+            }
+        }
+        
         // ========================================
         // PREVIEW / ÍCONE
         // ========================================
@@ -624,19 +637,6 @@ class DantyzShopMenu extends UIScriptedMenu
                     preview.SetView(previewItem.GetViewIndex());
                     preview.Show(true);
                 }
-            }
-        }
-        
-        // TEST DRIVE: carros ganham o botao TESTAR ao lado do COMPRAR (o servidor confere tudo)
-        bool testDriveOn = (!m_Config || m_Config.TestDriveEnabled != 0);
-        if (testDriveOn && !item.IsVipFreeItem && GetGame().IsKindOf(item.Classname, "CarScript"))
-        {
-            ButtonWidget cardBuyBtn = ButtonWidget.Cast(card.FindAnyWidget("BuyButton"));
-            ButtonWidget cardTestBtn = ButtonWidget.Cast(card.FindAnyWidget("TestButton"));
-            if (cardBuyBtn && cardTestBtn)
-            {
-                cardBuyBtn.SetSize(0.47, 0.15);
-                cardTestBtn.Show(true);
             }
         }
         
@@ -914,6 +914,14 @@ class DantyzShopMenu extends UIScriptedMenu
     
     override void Update(float timeslice)
     {
+        // ESC primeiro: se algo abaixo der erro, a loja ainda fecha
+        if (KeyState(KeyCode.KC_ESCAPE))
+        {
+            ClearKey(KeyCode.KC_ESCAPE);
+            CloseMenu();
+            return;
+        }
+
         super.Update(timeslice);
 
         // Rotacao do boneco no painel de roupas (arrastar mouse).

@@ -1,8 +1,8 @@
 class DantyzTestDriveSession
 {
     string     SteamID;
-    PlayerBase Player;
-    CarScript  Car;
+    PlayerBase TestPlayer;
+    CarScript  TestCar;
     vector     ReturnPos;
     vector     ReturnOri;
     int        EndTime;     // ms (GetGame().GetTime())
@@ -98,8 +98,8 @@ class DantyzTestDriveManager
 
         DantyzTestDriveSession s = new DantyzTestDriveSession();
         s.SteamID   = steamID;
-        s.Player    = player;
-        s.Car       = car;
+        s.TestPlayer    = player;
+        s.TestCar       = car;
         s.ReturnPos = player.GetPosition();
         s.ReturnOri = player.GetOrientation();
         int seconds = cfg.TestDriveSeconds;
@@ -171,23 +171,23 @@ class DantyzTestDriveManager
     static void SeatPlayer(string steamID)
     {
         DantyzTestDriveSession s;
-        if (!m_Sessions.Find(steamID, s) || !s.Player || !s.Car)
+        if (!m_Sessions.Find(steamID, s) || !s.TestPlayer || !s.TestCar)
             return;
 
-        if (s.Car.CrewMember(0))
+        if (s.TestCar.CrewMember(0))
         {
-            s.Player.MessageImportant("Entre no carro pelo banco do motorista.");
+            s.TestPlayer.MessageImportant("Entre no carro pelo banco do motorista.");
             return;
         }
 
-        int seat = s.Car.GetSeatAnimationType(0);
-        HumanCommandVehicle cmd = s.Player.StartCommand_Vehicle(s.Car, 0, seat, false);
+        int seat = s.TestCar.GetSeatAnimationType(0);
+        HumanCommandVehicle cmd = s.TestPlayer.StartCommand_Vehicle(s.TestCar, 0, seat, false);
         if (cmd)
-            cmd.SetVehicleType(s.Car.GetAnimInstance());
+            cmd.SetVehicleType(s.TestCar.GetAnimInstance());
 
-        PlayerIdentity identity = s.Player.GetIdentity();
+        PlayerIdentity identity = s.TestPlayer.GetIdentity();
         if (identity)
-            GetRPCManager().SendRPC("DantyzShop", "RPCTestDriveSeat", new Param1<Object>(s.Car), true, identity);
+            GetRPCManager().SendRPC("DantyzShop", "RPCTestDriveSeat", new Param1<Object>(s.TestCar), true, identity);
     }
 
     // ---------------------------------------------------------------------------------
@@ -204,13 +204,13 @@ class DantyzTestDriveManager
             DantyzTestDriveSession s = m_Sessions.GetElement(i);
             string reason = "";
 
-            if (!s.Player || !s.Player.IsAlive() || !s.Player.GetIdentity())
+            if (!s.TestPlayer || !s.TestPlayer.IsAlive() || !s.TestPlayer.GetIdentity())
                 reason = "jogador";
-            else if (!s.Car || s.Car.IsDamageDestroyed())
+            else if (!s.TestCar || s.TestCar.IsDamageDestroyed())
                 reason = "Test drive encerrado: o carro foi destruido.";
             else
             {
-                bool inside = IsInCar(s.Player, s.Car);
+                bool inside = IsInCar(s.TestPlayer, s.TestCar);
                 if (inside)
                     s.Entered = true;
 
@@ -226,7 +226,7 @@ class DantyzTestDriveManager
                 else if (!s.Warned && s.EndTime - now <= 60000)
                 {
                     s.Warned = true;
-                    s.Player.MessageImportant("Test drive: falta 1 minuto.");
+                    s.TestPlayer.MessageImportant("Test drive: falta 1 minuto.");
                 }
             }
 
@@ -267,13 +267,13 @@ class DantyzTestDriveManager
         m_Sessions.Remove(steamID);
         SetCooldown(steamID, s);
 
-        PlayerBase player = s.Player;
+        PlayerBase player = s.TestPlayer;
         bool alive = player && player.IsAlive();
 
         if (alive && player.GetIdentity() && reason != "jogador")
             player.MessageImportant(reason);
 
-        if (alive && s.Car && IsInCar(player, s.Car))
+        if (alive && s.TestCar && IsInCar(player, s.TestCar))
         {
             HumanCommandVehicle cmd = player.GetCommand_Vehicle();
             if (cmd)
@@ -285,11 +285,11 @@ class DantyzTestDriveManager
                 GetRPCManager().SendRPC("DantyzShop", "RPCTestDriveExit", new Param1<bool>(true), true, player.GetIdentity());
 
             // espera a animacao de saida antes de apagar o carro e teleportar
-            GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(DantyzTestDriveManager.Finish, 1500, false, player, s.Car, s.ReturnPos, s.ReturnOri);
+            GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(DantyzTestDriveManager.Finish, 1500, false, player, s.TestCar, s.ReturnPos, s.ReturnOri);
             return;
         }
 
-        Finish(player, s.Car, s.ReturnPos, s.ReturnOri);
+        Finish(player, s.TestCar, s.ReturnPos, s.ReturnOri);
     }
 
     // tempo todo usado = TestDriveCooldownSeconds; saiu antes = TestDriveEarlyCooldownSeconds
@@ -323,7 +323,7 @@ class DantyzTestDriveManager
         for (int i = 0; i < m_Sessions.Count(); i++)
         {
             DantyzTestDriveSession s = m_Sessions.GetElement(i);
-            if (s.Player == player)
+            if (s.TestPlayer == player)
             {
                 string key = m_Sessions.GetKey(i);
                 m_Sessions.Remove(key);
@@ -335,7 +335,7 @@ class DantyzTestDriveManager
                     cmd.KeepInVehicleSpaceAfterLeave(false);
                     cmd.GetOutVehicle();
                 }
-                Finish(player, s.Car, s.ReturnPos, s.ReturnOri);
+                Finish(player, s.TestCar, s.ReturnPos, s.ReturnOri);
                 return;
             }
         }
